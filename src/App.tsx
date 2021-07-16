@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Plug and play template
         </a>
         <div>test</div>
       </header>
